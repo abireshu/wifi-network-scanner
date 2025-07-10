@@ -1,0 +1,4 @@
+pywifi
+matplotlib
+pandas
+comtypes ; platform_system == "Windows"
