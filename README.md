@@ -24,7 +24,8 @@ A cross-platform, professional-grade WiFi network scanner and analyzer built wit
 ##  Screenshots
 
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
+![security tips](Screenshot1.png)
 
 ##  Installation
 
